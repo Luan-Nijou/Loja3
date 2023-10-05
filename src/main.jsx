@@ -14,7 +14,7 @@ import Carrinho from './Carrinho.jsx'
 import Login from './Login.jsx'
 
  /* criando a função createBrowser */
-const router =createBrowserRouter([
+const router = createBrowserRouter([
 {
    /* chamando o elemento principal(pai) */
   path: '/', element: <App />,
